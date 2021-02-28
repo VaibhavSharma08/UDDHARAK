@@ -1,5 +1,5 @@
 # UDDHARAK_Hack_SURREY
-REPO for project made during Hack Surrey
+REPO for project made during Cuse Hacks
 
 This is the GitHub repository for the project UDDHARAK: Temperature and Humidity Monitoring System.
 
